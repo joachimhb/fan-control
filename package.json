@@ -1,0 +1,31 @@
+{
+  "name": "fan-control",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "joachim.haecker-becker@arcor.de",
+  "license": "MIT",
+  "dependencies": {
+    "@joachimhb/smart-home-shared": "git+https://github.com/joachimhb/smart-home-shared.git#0.0.4",
+    "check-types-2": "11.4.0",
+    "classnames": "2.3.1",
+    "delay": "^5.0.0",
+    "fs-extra": "^8.1.0",
+    "lodash": "^4.17.21",
+    "log4js": "6.3.0",
+    "millisecond": "^0.1.2",
+    "moment": "^2.29.1",
+    "pretty-ms": "^7.0.1",
+    "rpio": "^2.4.2"
+  },
+  "devDependencies": {
+    "@joachimhb/bot": "git+https://github.com/joachimhb/bot.git#0.1.0",
+    "eslint": "^7.24.0",
+    "eslint-config-es": "^3.28.27",
+    "eslint-plugin-json": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joachimhb/fan-control.git"
+  }
+}
