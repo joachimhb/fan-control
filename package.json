@@ -6,7 +6,7 @@
   "author": "joachim.haecker-becker@arcor.de",
   "license": "MIT",
   "dependencies": {
-    "@joachimhb/smart-home-shared": "git+https://github.com/joachimhb/smart-home-shared.git#0.0.4",
+    "@joachimhb/smart-home-shared": "git+https://github.com/joachimhb/smart-home-shared.git#1.0.6",
     "check-types-2": "11.4.0",
     "classnames": "2.3.1",
     "delay": "^5.0.0",
